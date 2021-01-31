@@ -1,0 +1,48 @@
+body{
+    background-color: #ffa257;
+}
+
+.cover{
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.judul{
+    color: #ffa257;
+}
+
+.desc{
+    font-size: 14px;
+    color: #c7c8ca;
+    margin-top: 24px;
+}
+
+.text-bold{
+    font-weight: bold;   
+}
+
+.link{
+    text-decoration:underline;
+    color: #9d9c15;
+    font-weight: bold;
+    transition: 300ms;
+}
+
+.link:hover{
+    color: #777715;
+    font-weight: bold;
+}
+
+.btn-red{
+    background-color: #ff504f;
+    color: #fff;
+    transition: 300ms;
+    width: 150px;
+    padding: 12px;
+}
+
+.btn-red:hover{
+    background-color: #d03b3b;
+    color: #fff;
+}
+
